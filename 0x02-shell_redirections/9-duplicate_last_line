@@ -1,2 +1,2 @@
 #!/bin/bash
-cat yy | tail iacta
+cat|tail iacta
