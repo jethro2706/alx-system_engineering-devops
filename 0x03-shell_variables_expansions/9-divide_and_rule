@@ -1,2 +1,2 @@
 #!/bin/bash
-export POWER=21 | export DIVIDE=3 | echo $((21/3))
+export POWER=24 | export DIVIDE=2 | echo $((24/2))
